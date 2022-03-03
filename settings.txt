@@ -1,3 +1,4 @@
 Settings
 . Teste
 #verificar alteração de hash
+Mais um
